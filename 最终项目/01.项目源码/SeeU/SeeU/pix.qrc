@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pix/QQ.png</file>
+        <file>pix/delete.png</file>
+        <file>pix/background/20220823162944.jpg</file>
+        <file>pix/background/15987900181955191.jpg</file>
+        <file>pix/background/76343793434023371.jpg</file>
+        <file>pix/background/136730003513332132.jpg</file>
+        <file>pix/background/142631450292875305.jpg</file>
+        <file>pix/background/357012794904702170.jpg</file>
+        <file>pix/background/357588732178792094.jpg</file>
+        <file>pix/background/673352434458149518.jpg</file>
+        <file>pix/background/818929990834041998.jpg</file>
+        <file>pix/background/832281290270606317.jpg</file>
+        <file>pix/background/chat_background.jpg</file>
+        <file>pix/background/loading_background.jpg</file>
+        <file>pix/background/login_background.jpg</file>
+        <file>pix/background/main.jpg</file>
+        <file>pix/background/register_background.jpg</file>
+        <file>pix/button/account.png</file>
+        <file>pix/button/add_friend.png</file>
+        <file>pix/button/choose.png</file>
+        <file>pix/button/code.png</file>
+        <file>pix/button/login_button.png</file>
+        <file>pix/button/read.png</file>
+        <file>pix/button/register_button.png</file>
+        <file>pix/button/send.png</file>
+        <file>pix/button/uploading.png</file>
+        <file>pix/head/head.png</file>
+        <file>pix/head/head1.png</file>
+        <file>pix/head/head2.png</file>
+        <file>pix/head/head3.png</file>
+        <file>pix/background/loading_background.png</file>
+        <file>pix/head.png</file>
+        <file>pix/head1.png</file>
+        <file>pix/head2.png</file>
+        <file>pix/head3.png</file>
+    </qresource>
+</RCC>
